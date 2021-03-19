@@ -5,8 +5,7 @@
         },
         "files": [
         	"Config.php",
-            "CreateScripts.php",
-            "InsertScripts.php"
+            "CreateScripts.php"
         ]
     },
     "require": {

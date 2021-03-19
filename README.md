@@ -4,6 +4,8 @@
 1) Use o comando <strong>composer install</strong> para baixar as dependências.
 2) Use a url - GET http://SEUDOMINIO/public_html/api/migration/ para criar o banco e as tabelas do projeto.
 
+Obs:Caso não consiga criar o banco pela url,deixei o arquivo sql na raiz do projeto =)
+
 ## Fazendo as requisições
 
  - Utilizei o Apache(xampp) para receber as requisições.

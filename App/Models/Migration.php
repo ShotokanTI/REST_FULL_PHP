@@ -24,6 +24,7 @@ class Migration
     {
         $conn = Connect::conectar();
         $sql = ALLTABLES;
+        var_dump($sql);
         $conn->exec($sql);
     }
 }
