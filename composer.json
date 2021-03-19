@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\":"App"
+        },
+        "files": [
+        	"Config.php",
+            "CreateScripts.php",
+            "InsertScripts.php"
+        ]
+    },
+    "require": {
+    }
+}
